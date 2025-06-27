@@ -1,0 +1,26 @@
+  @font-face {
+    font-family: ToastyMilk;
+    src: url(../resources/fonts/ToastyMilk.otf) format("opentype");
+  }
+
+  @font-face {
+    font-family: Tommy;
+    src: url("../resources/fonts/Tommy/MADE TOMMY ExtraBold_PERSONAL USE.otf") format("opentype");
+  }
+  
+  @font-face {
+    font-family: TommyOutline;
+    src: url("../resources/fonts/Tommy/MADE TOMMY ExtraBold Outline_PERSONAL USE.otf") format("opentype");
+  }
+  
+
+  .heading {
+    font-family: Tommy;
+    font-size: 42px;
+
+    text-align: center;
+  }
+
+  .outline {
+    font-family: TommyOutline;
+  }
